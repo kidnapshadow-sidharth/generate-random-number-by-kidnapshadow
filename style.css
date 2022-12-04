@@ -1,0 +1,83 @@
+* {
+    padding: 0;
+    margin: 0;
+
+}
+
+h1 {
+    text-transform: capitalize;
+    text-align: center;
+    margin-top: 20vh;
+    font-size: 5vw;
+}
+
+.click {
+    justify-content: center;
+    border-radius: 8px;
+    padding: 18px;
+    font-size: 1rem;
+    cursor: pointer;
+    background: rgb(252, 68, 2);
+    text-transform: capitalize;
+    color: lightgoldenrodyellow;
+    text-align: center;
+    margin-left: 42vw;
+    margin-top: 15px;
+
+}
+
+#section2 {
+    display: none;
+
+}
+
+#section3 {
+    display: none;
+}
+
+.imgsec2 {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec2 {
+    margin-left: 17vh;
+    padding-bottom: 15px;
+
+}
+
+.sec2 img {
+    width: 320px;
+    margin-left: 27vw;
+}
+
+.sectext2 {
+    text-align: center;
+    justify-content: center;
+
+
+}
+
+.sectext2 input {
+    text-transform: capitalize;
+    padding: 5px 80px;
+    border-radius: 20px;
+    text-align: center;
+    color: gray;
+    border: 2px solid black;
+    font-size: 1rem;
+
+}
+
+.sectext2 .click2 {
+    margin-right: 100px;
+    border-radius: 20px;
+    color: aliceblue;
+    background-color: orangered;
+    padding: 5px 30px;
+    margin-top: 15px;
+    cursor: pointer;
+    font-size: 1rem;
+
+}
